@@ -392,6 +392,91 @@
 			</default>
 		</menubar>
 		
+		<help>
+			<title>Airbus A320 family</title>
+			<!-- NOTE: lowercase except abbreviations for consistency with
+				common aircraft keys dialog. -->
+			<!-- Throttle controls -->
+			<key>
+				<name>f</name>
+				<desc>TOGA power</desc>
+			</key>
+			<key>
+				<name>Ctrl-f</name>
+				<desc>MCT/FLX power</desc>
+			</key>
+			<key>
+				<name>F</name>
+				<desc>CL power</desc>
+			</key>
+			<key>
+				<name>e</name>
+				<desc>idle power</desc>
+			</key>
+			<key>
+				<name>Del</name>
+				<desc>toggle reversers</desc>
+			</key>
+			<key>
+				<name>F1</name>
+				<desc>decrease/disengage reversers</desc>
+			</key>
+			<key>
+				<name>F2</name>
+				<desc>engage/increase reversers</desc>
+			</key>
+			<!-- Other controls -->
+			<key>
+				<name>D</name>
+				<desc>A/P disconnect</desc>
+			</key>
+			<key>
+				<name>Ctrl-d</name>
+				<desc>A/THR disconnect</desc>
+			</key>
+			<key>
+				<name>Ctrl-b</name>
+				<desc>cycle speedbrake setting</desc>
+			</key>
+			<!-- Views -->
+			<key>
+				<name>1</name>
+				<desc>captain view</desc>
+			</key>
+			<key>
+				<name>2</name>
+				<desc>first officer view</desc>
+			</key>
+			<key>
+				<name>3</name>
+				<desc>overhead view</desc>
+			</key>
+			<key>
+				<name>4</name>
+				<desc>forward pedestal view</desc>
+			</key>
+			<key>
+				<name>5</name>
+				<desc>aft pedestal view</desc>
+			</key>
+			<key>
+				<name>6</name>
+				<desc>FCU panel view</desc>
+			</key>
+			<key>
+				<name>c</name>
+				<desc>reset view</desc>
+			</key>
+			<key>
+				<name>l</name>
+				<desc>flashlight</desc>
+			</key>
+			<key>
+				<name>1..9</name>
+				<desc>in keyboard mode: FG defaults</desc>
+			</key>
+		</help>
+
 		<!-- Multiplayer properties -->
 		<multiplay>
 			<generic>
