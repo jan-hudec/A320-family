@@ -20,4 +20,9 @@
 			<z-m>1.7005004</z-m>
 		</offsets>
 	</model>
+
+	<!-- Needed for checklist [?] button and tutorials. -->
+	<model>
+		<path>Aircraft/Generic/marker.xml</path>
+	</model>
 </PropertyList>
